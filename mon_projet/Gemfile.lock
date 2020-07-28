@@ -45,7 +45,7 @@ GEM
     http_parser.rb (0.6.0)
     httpclient (2.8.3)
     jaro_winkler (1.5.3)
-    json (2.2.0)
+    json (2.3.0)
     jwt (2.2.1)
     marc (1.0.4)
       scrub_rb (>= 1.0.1, < 2)
